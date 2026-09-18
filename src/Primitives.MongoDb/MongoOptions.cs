@@ -1,6 +1,6 @@
 using MongoDB.Driver;
 
-namespace Primitives.MongoDb;
+namespace Forge.Primitives.MongoDb;
 
 /// <summary>
 /// Connection settings for a single MongoDB database. Binds automatically from configuration via

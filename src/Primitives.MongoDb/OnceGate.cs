@@ -1,4 +1,4 @@
-namespace Primitives.MongoDb;
+namespace Forge.Primitives.MongoDb;
 
 /// <summary>
 /// Runs an action exactly once, safely, blocking concurrent callers until the first caller's

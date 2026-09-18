@@ -1,7 +1,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using MongoDB.Driver;
 
-namespace Primitives.MongoDb;
+namespace Forge.Primitives.MongoDb;
 
 public static class MongoServiceCollectionExtensions
 {

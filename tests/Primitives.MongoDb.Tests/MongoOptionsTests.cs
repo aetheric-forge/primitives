@@ -1,6 +1,6 @@
-using Primitives.MongoDb;
+using Forge.Primitives.MongoDb;
 
-namespace Primitives.MongoDb.Tests;
+namespace Forge.Primitives.MongoDb.Tests;
 
 public sealed class MongoOptionsTests
 {

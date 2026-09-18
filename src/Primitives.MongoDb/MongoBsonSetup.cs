@@ -2,7 +2,7 @@ using MongoDB.Bson;
 using MongoDB.Bson.Serialization;
 using MongoDB.Bson.Serialization.Serializers;
 
-namespace Primitives.MongoDb;
+namespace Forge.Primitives.MongoDb;
 
 /// <summary>
 /// MongoDB.Driver 3.x removed its old implicit Guid-serialization default - without registering
