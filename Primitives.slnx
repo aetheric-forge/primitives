@@ -1,8 +1,10 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/Primitives.MongoDb/Primitives.MongoDb.csproj" />
+    <Project Path="src/Primitives.Redis/Primitives.Redis.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/Primitives.MongoDb.Tests/Primitives.MongoDb.Tests.csproj" />
+    <Project Path="tests/Primitives.Redis.Tests/Primitives.Redis.Tests.csproj" />
   </Folder>
 </Solution>
